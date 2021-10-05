@@ -1,0 +1,12 @@
+{
+  "name": "Lab_Test_1",
+  "version": "1.0.0",
+  "description": "Lab Test 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["labtest1"],
+  "author": "Deniz Dogan - 101269485",
+  "license": "ISC"
+}
